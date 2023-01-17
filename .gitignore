@@ -1,0 +1,10 @@
+venv
+.env
+
+playground.py
+
+above_rsi_69.json
+macd_data.json
+money.json
+rsi_data.json
+stock_data.json
